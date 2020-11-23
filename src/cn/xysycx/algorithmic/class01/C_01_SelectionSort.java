@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @Author Fedeline
  * @Date 2020/11/23 下午10:49
  */
-public class SelectionSort {
+public class C_01_SelectionSort {
     /**
      * 选择排序 的排序方法
      * @param arr 待排序的原始样本数组
